@@ -17,6 +17,7 @@ Welcome to 'Top AI Directories', a curated compilation of AI tool directories de
   - [P](#p)
   - [S](#s)
   - [T](#t)
+  - [V](#v)
 
 
 
@@ -73,4 +74,9 @@ Welcome to 'Top AI Directories', a curated compilation of AI tool directories de
 - [TopAI.tools](https://topai.tools/) - Discover the best AI tools Everyday
 - [Tool Pilot](https://www.toolpilot.ai) - Navigate the World of AI Tools
 - [Top Tools](https://www.toptools.ai/) - AI Tools Directory
+
+
+## V
+
+- [Victrays](https://victrays.com) - Ai tools, Prompts, Plugins
 
